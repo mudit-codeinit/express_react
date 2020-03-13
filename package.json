@@ -37,7 +37,7 @@
     "forever": "^0.15.3",
     "http-proxy-middleware": "^0.17.4",
     "jquery": "^3.1.1",
-    "mongoose": "^4.9.0",
+    "mongoose": "^5.7.5",
     "morgan": "~1.7.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
